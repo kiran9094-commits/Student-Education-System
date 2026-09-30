@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgDef" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="50%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#475569"/>
+    </linearGradient>
+    <linearGradient id="accentDef" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bgDef)"/>
+  <circle cx="400" cy="200" r="160" fill="none" stroke="url(#accentDef)" stroke-width="3" opacity="0.3"/>
+  <polygon points="400,90 480,180 320,180" fill="url(#accentDef)" opacity="0.8"/>
+  <rect x="360" y="180" width="80" height="90" fill="#ffffff" opacity="0.2"/>
+  <rect x="0" y="320" width="800" height="130" fill="#0f172a" opacity="0.94"/>
+  <text x="50" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Academic Institution</text>
+  <text x="50" y="410" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#94a3b8">Verified Campus • Quality Higher Education</text>
+</svg>

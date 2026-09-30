@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgSchool" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#065f46"/>
+      <stop offset="60%" stop-color="#047857"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="sunBadge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bgSchool)"/>
+  <!-- Trees and School Bell Campus Vector -->
+  <g opacity="0.25" stroke="#ffffff" fill="none" stroke-width="2">
+    <path d="M 120 320 L 160 200 L 200 320 Z M 160 200 L 160 320"/>
+    <path d="M 240 320 L 290 170 L 340 320 Z M 290 170 L 290 320"/>
+    <path d="M 450 320 L 500 180 L 550 320 Z"/>
+    <circle cx="680" cy="110" r="50" fill="#fef08a" stroke="none" opacity="0.3"/>
+  </g>
+  <rect x="0" y="320" width="800" height="130" fill="#064e3b" opacity="0.94"/>
+  <text x="50" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Greenwood International School</text>
+  <text x="50" y="410" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#a7f3d0">Pune • CBSE & Cambridge Affiliated • Grades 1 to 12</text>
+  <rect x="640" y="360" width="110" height="34" rx="17" fill="url(#sunBadge)"/>
+  <text x="695" y="382" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">★ 4.9 / 5.0</text>
+</svg>

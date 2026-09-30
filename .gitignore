@@ -1,0 +1,10 @@
+# Environment & Local Database
+database/*.sqlite
+database/*.sqlite-journal
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
